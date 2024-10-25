@@ -110,7 +110,7 @@ a {
 }
 
 .parallax {
-  background-image: url('assets/Foto/bg.jpg');
+  background-image: url('assets/Foto/bg.png');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
